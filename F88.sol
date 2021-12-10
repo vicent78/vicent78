@@ -1,3 +1,7 @@
+/**
+ *Submitted for verification at BscScan.com on 2021-12-10
+*/
+
 pragma solidity ^0.6.12;
 // SPDX-License-Identifier: Unlicensed
 interface IERC20 {
